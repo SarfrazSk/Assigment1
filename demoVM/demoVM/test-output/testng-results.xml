@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-02T12:29:16 IST" name="Suite" finished-at="2024-07-02T12:30:06 IST" duration-ms="50079">
+    <groups>
+    </groups>
+    <test started-at="2024-07-02T12:29:16 IST" name="Test" finished-at="2024-07-02T12:30:06 IST" duration-ms="50079">
+      <class name="demo.com.main.TestCase003">
+        <test-method is-config="true" signature="setup()[pri:0, instance:demo.com.main.TestCase003@6d60fe40]" started-at="2024-07-02T12:29:53 IST" name="setup" finished-at="2024-07-02T12:29:56 IST" duration-ms="3350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestForgotPass()[pri:0, instance:demo.com.main.TestCase003@6d60fe40]" started-at="2024-07-02T12:29:56 IST" name="TestForgotPass" finished-at="2024-07-02T12:30:06 IST" duration-ms="10281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestForgotPass -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:demo.com.main.TestCase003@6d60fe40]" started-at="2024-07-02T12:30:06 IST" name="tearDown" finished-at="2024-07-02T12:30:06 IST" duration-ms="93" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- demo.com.main.TestCase003 -->
+      <class name="demo.com.main.TestCase002">
+        <test-method is-config="true" signature="setup()[pri:0, instance:demo.com.main.TestCase002@15043a2f]" started-at="2024-07-02T12:29:16 IST" name="setup" finished-at="2024-07-02T12:29:28 IST" duration-ms="11516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestLogin()[pri:0, instance:demo.com.main.TestCase002@15043a2f]" started-at="2024-07-02T12:29:28 IST" name="TestLogin" finished-at="2024-07-02T12:29:38 IST" duration-ms="10327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:demo.com.main.TestCase002@15043a2f]" started-at="2024-07-02T12:29:38 IST" name="tearDown" finished-at="2024-07-02T12:29:38 IST" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- demo.com.main.TestCase002 -->
+      <class name="demo.com.main.TestCase001">
+        <test-method is-config="true" signature="setup()[pri:0, instance:demo.com.main.TestCase001@43df23d3]" started-at="2024-07-02T12:29:38 IST" name="setup" finished-at="2024-07-02T12:29:42 IST" duration-ms="3594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestRegister()[pri:0, instance:demo.com.main.TestCase001@43df23d3]" started-at="2024-07-02T12:29:42 IST" name="TestRegister" finished-at="2024-07-02T12:29:53 IST" duration-ms="10622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestRegister -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:demo.com.main.TestCase001@43df23d3]" started-at="2024-07-02T12:29:53 IST" name="tearDown" finished-at="2024-07-02T12:29:53 IST" duration-ms="93" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- demo.com.main.TestCase001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
